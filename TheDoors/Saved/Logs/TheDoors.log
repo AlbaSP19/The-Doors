@@ -988,3 +988,157 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.03-14.18.59:874][526]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstLevel_BuiltData.FirstLevel_BuiltData
 [2020.02.03-14.34.54:160][545]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2020.02.03-14.34.55:695][545]LogSlate: Window 'Save Level As' being destroyed
+[2020.02.03-14.36.04:162][110]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.03-14.36.04:177][110]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.03-14.36.04:177][110]PIE: New page: PIE session: FirstLevel (Feb 3, 2020, 4:36:04 PM)
+[2020.02.03-14.36.04:177][110]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FirstLevel
+[2020.02.03-14.36.04:839][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.662313s)
+[2020.02.03-14.36.04:840][110]LogAIModule: Creating AISystem for world FirstLevel
+[2020.02.03-14.36.04:841][110]LogPlayLevel: PIE: World Init took: (0.001185s)
+[2020.02.03-14.36.04:841][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstLevel.FirstLevel to /Game/UEDPIE_0_FirstLevel.FirstLevel (0.663655s)
+[2020.02.03-14.36.04:867][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.02.03-14.36.04:869][110]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.03-14.36.04:869][110]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.03-14.36.04:869][110]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.03-14.36.04:869][110]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.03-14.36.04:869][110]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.03-14.36.04:869][110]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.03-14.36.04:869][110]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.03-14.36.04:869][110]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.03-14.36.04:869][110]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.03-14.36.04:869][110]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.03-14.36.04:880][110]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.03-14.36.04:880][110]LogAudioMixer: Display: Name: Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.03-14.36.04:880][110]LogAudioMixer: Display: Is Default: Yes
+[2020.02.03-14.36.04:880][110]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.03-14.36.04:880][110]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.03-14.36.04:880][110]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.03-14.36.04:880][110]LogAudioMixer: Display: Channel Order:
+[2020.02.03-14.36.04:880][110]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.03-14.36.04:880][110]LogAudioMixer: Display: 1: FrontRight
+[2020.02.03-14.36.04:890][110]LogAudioMixer: Display: Using Audio Device Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.03-14.36.04:892][110]LogInit: FAudioDevice initialized.
+[2020.02.03-14.36.04:899][110]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.03-14.36.04:920][110]LogWorld: Bringing World /Game/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 60) at 2020.02.03-15.36.04
+[2020.02.03-14.36.04:920][110]LogWorld: Bringing up level for play took: 0.020758
+[2020.02.03-14.36.04:921][110]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.02.03-14.36.04:927][110]PIE: Play in editor start time for /Game/UEDPIE_0_FirstLevel 0.404
+[2020.02.03-14.36.16:306][777]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.03-14.36.16:306][777]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.03-14.36.16:306][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-14.36.16:306][777]LogWorld: BeginTearingDown for /Game/UEDPIE_0_FirstLevel
+[2020.02.03-14.36.16:306][777]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.03-14.36.16:307][777]LogWorld: UWorld::CleanupWorld for FirstLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-14.36.16:312][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-14.36.16:324][777]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.03-14.36.16:332][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-14.36.16:397][777]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.03-14.36.16:402][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-14.36.16:546][777]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.02.03-14.36.16:583][778]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.02.03-14.36.44:293][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstLevel" FILE="../../../../../../Users/Alba Samaranch/Documents/GitHub/The-Doors/TheDoors/Content/FirstLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.03-14.36.44:346][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.02.03-14.36.44:491][393]LogTexture: Display: Building textures: Texture2D_274 (BGRA8, 64X64)
+[2020.02.03-14.36.44:494][393]LogTexture: Display: Building textures: Texture2D_278 (BGRA8, 64X64)
+[2020.02.03-14.36.45:823][393]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/The-Doors/TheDoors/Saved/FirstLevel1C3D68C44805B4E90E3F31BE37422C2A.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/The-Doors/TheDoors/Content/FirstLevel.umap'
+[2020.02.03-14.36.45:880][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstLevel_BuiltData" FILE="../../../../../../Users/Alba Samaranch/Documents/GitHub/The-Doors/TheDoors/Content/FirstLevel_BuiltData.uasset" SILENT=true
+[2020.02.03-14.36.48:334][393]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/The-Doors/TheDoors/Saved/FirstLevel_BuiltData6722E4484184154DE99A7CB49D833621.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/The-Doors/TheDoors/Content/FirstLevel_BuiltData.uasset'
+[2020.02.03-14.36.48:382][393]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.03-14.36.48:382][393]LogContentValidation: Display: Validating World /Game/FirstLevel.FirstLevel
+[2020.02.03-14.36.48:382][393]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstLevel_BuiltData.FirstLevel_BuiltData
+[2020.02.03-14.37.35:374][793]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.03-14.37.35:388][793]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.03-14.37.35:388][793]PIE: New page: PIE session: FirstLevel (Feb 3, 2020, 4:37:35 PM)
+[2020.02.03-14.37.35:388][793]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_FirstLevel
+[2020.02.03-14.37.35:863][793]LogTexture: Display: Building textures: Texture2D_278 (BGRA8, 64X64)
+[2020.02.03-14.37.35:865][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.477359s)
+[2020.02.03-14.37.35:866][793]LogAIModule: Creating AISystem for world FirstLevel
+[2020.02.03-14.37.35:866][793]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2020.02.03-14.37.35:866][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstLevel.FirstLevel to /Game/UEDPIE_0_FirstLevel.FirstLevel (0.478465s)
+[2020.02.03-14.37.35:891][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.02.03-14.37.35:893][793]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.03-14.37.35:893][793]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.03-14.37.35:893][793]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.03-14.37.35:893][793]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.03-14.37.35:893][793]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.03-14.37.35:893][793]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.03-14.37.35:893][793]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.03-14.37.35:893][793]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.03-14.37.35:893][793]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.03-14.37.35:893][793]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.03-14.37.35:903][793]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.03-14.37.35:903][793]LogAudioMixer: Display: Name: Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.03-14.37.35:903][793]LogAudioMixer: Display: Is Default: Yes
+[2020.02.03-14.37.35:904][793]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.03-14.37.35:904][793]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.03-14.37.35:904][793]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.03-14.37.35:904][793]LogAudioMixer: Display: Channel Order:
+[2020.02.03-14.37.35:904][793]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.03-14.37.35:904][793]LogAudioMixer: Display: 1: FrontRight
+[2020.02.03-14.37.35:912][793]LogAudioMixer: Display: Using Audio Device Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.03-14.37.35:913][793]LogInit: FAudioDevice initialized.
+[2020.02.03-14.37.35:921][793]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.03-14.37.35:941][793]LogWorld: Bringing World /Game/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2020.02.03-15.37.35
+[2020.02.03-14.37.35:941][793]LogWorld: Bringing up level for play took: 0.018442
+[2020.02.03-14.37.35:941][793]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.02.03-14.37.35:944][793]PIE: Play in editor start time for /Game/UEDPIE_0_FirstLevel 1.421
+[2020.02.03-14.37.50:184][ 70]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.03-14.37.50:184][ 70]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.03-14.37.50:184][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-14.37.50:184][ 70]LogWorld: BeginTearingDown for /Game/UEDPIE_0_FirstLevel
+[2020.02.03-14.37.50:184][ 70]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.03-14.37.50:184][ 70]LogWorld: UWorld::CleanupWorld for FirstLevel, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-14.37.50:188][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-14.37.50:212][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.03-14.37.50:216][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-14.37.50:245][ 70]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.03-14.37.50:248][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-14.37.50:321][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.02.03-14.37.50:344][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.02.03-14.37.50:475][ 82]Cmd: SELECT NONE
+[2020.02.03-14.38.07:570][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstLevel" FILE="../../../../../../Users/Alba Samaranch/Documents/GitHub/The-Doors/TheDoors/Content/FirstLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.03-14.38.07:598][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.02.03-14.38.07:715][570]LogTexture: Display: Building textures: Texture2D_278 (BGRA8, 64X64)
+[2020.02.03-14.38.08:882][570]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/The-Doors/TheDoors/Saved/FirstLevel857CD2214832B2394B48CE94A5789556.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/The-Doors/TheDoors/Content/FirstLevel.umap'
+[2020.02.03-14.38.08:912][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstLevel_BuiltData" FILE="../../../../../../Users/Alba Samaranch/Documents/GitHub/The-Doors/TheDoors/Content/FirstLevel_BuiltData.uasset" SILENT=true
+[2020.02.03-14.38.10:815][570]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/The-Doors/TheDoors/Saved/FirstLevel_BuiltData966F200148304C4037201FBCAAA799D3.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/The-Doors/TheDoors/Content/FirstLevel_BuiltData.uasset'
+[2020.02.03-14.38.10:849][570]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.03-14.38.10:849][570]LogContentValidation: Display: Validating World /Game/FirstLevel.FirstLevel
+[2020.02.03-14.38.10:849][570]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstLevel_BuiltData.FirstLevel_BuiltData
+[2020.02.03-14.39.22:717][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstLevel" FILE="../../../../../../Users/Alba Samaranch/Documents/GitHub/The-Doors/TheDoors/Content/FirstLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.03-14.39.22:743][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.02.03-14.39.22:851][232]LogTexture: Display: Building textures: Texture2D_278 (BGRA8, 64X64)
+[2020.02.03-14.39.23:960][232]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/The-Doors/TheDoors/Saved/FirstLevel730BC79146B2A2722E266383FA83C1D8.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/The-Doors/TheDoors/Content/FirstLevel.umap'
+[2020.02.03-14.39.23:988][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstLevel_BuiltData" FILE="../../../../../../Users/Alba Samaranch/Documents/GitHub/The-Doors/TheDoors/Content/FirstLevel_BuiltData.uasset" SILENT=true
+[2020.02.03-14.39.25:811][232]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/The-Doors/TheDoors/Saved/FirstLevel_BuiltData808D29964535668189904FBA06208D23.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/The-Doors/TheDoors/Content/FirstLevel_BuiltData.uasset'
+[2020.02.03-14.39.25:847][232]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.03-14.39.25:847][232]LogContentValidation: Display: Validating World /Game/FirstLevel.FirstLevel
+[2020.02.03-14.39.25:847][232]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstLevel_BuiltData.FirstLevel_BuiltData
+[2020.02.03-14.39.46:284][ 18]LogTexture: Display: Building textures: Texture2D_280 (BGRA8, 64X64)
+[2020.02.03-14.39.57:258][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstLevel" FILE="../../../../../../Users/Alba Samaranch/Documents/GitHub/The-Doors/TheDoors/Content/FirstLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.03-14.39.57:286][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.02.03-14.39.57:395][989]LogTexture: Display: Building textures: Texture2D_280 (BGRA8, 64X64)
+[2020.02.03-14.39.57:395][989]LogTexture: Display: Building textures: Texture2D_274 (BGRA8, 64X64)
+[2020.02.03-14.39.57:396][989]LogTexture: Display: Building textures: Texture2D_273 (BGRA8, 64X64)
+[2020.02.03-14.39.58:491][989]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/The-Doors/TheDoors/Saved/FirstLevelC24CDD084480C486CA688488E53B6A58.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/The-Doors/TheDoors/Content/FirstLevel.umap'
+[2020.02.03-14.39.58:522][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstLevel_BuiltData" FILE="../../../../../../Users/Alba Samaranch/Documents/GitHub/The-Doors/TheDoors/Content/FirstLevel_BuiltData.uasset" SILENT=true
+[2020.02.03-14.40.00:349][989]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/The-Doors/TheDoors/Saved/FirstLevel_BuiltDataD0D8AC8E476E9107AA235E95DD07D676.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/The-Doors/TheDoors/Content/FirstLevel_BuiltData.uasset'
+[2020.02.03-14.40.00:378][989]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.03-14.40.00:379][989]LogContentValidation: Display: Validating World /Game/FirstLevel.FirstLevel
+[2020.02.03-14.40.00:379][989]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstLevel_BuiltData.FirstLevel_BuiltData
+[2020.02.03-14.40.15:189][267]LogTexture: Display: Building textures: Texture2D_281 (BGRA8, 64X64)
+[2020.02.03-14.40.18:418][538]LogTexture: Display: Building textures: Texture2D_282 (BGRA8, 64X64)
+[2020.02.03-14.40.21:795][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstLevel" FILE="../../../../../../Users/Alba Samaranch/Documents/GitHub/The-Doors/TheDoors/Content/FirstLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.03-14.40.21:821][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.02.03-14.40.21:927][819]LogTexture: Display: Building textures: Texture2D_131 (BGRA8, 64X64)
+[2020.02.03-14.40.21:927][819]LogTexture: Display: Building textures: Texture2D_281 (BGRA8, 64X64)
+[2020.02.03-14.40.21:928][819]LogTexture: Display: Building textures: Texture2D_280 (BGRA8, 64X64)
+[2020.02.03-14.40.21:928][819]LogTexture: Display: Building textures: Texture2D_282 (BGRA8, 64X64)
+[2020.02.03-14.40.21:929][819]LogTexture: Display: Building textures: Texture2D_278 (BGRA8, 64X64)
+[2020.02.03-14.40.21:930][819]LogTexture: Display: Building textures: Texture2D_272 (BGRA8, 64X64)
+[2020.02.03-14.40.23:026][819]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/The-Doors/TheDoors/Saved/FirstLevel561CF91445EE5BC04077218778B2405F.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/The-Doors/TheDoors/Content/FirstLevel.umap'
+[2020.02.03-14.40.23:055][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstLevel_BuiltData" FILE="../../../../../../Users/Alba Samaranch/Documents/GitHub/The-Doors/TheDoors/Content/FirstLevel_BuiltData.uasset" SILENT=true
+[2020.02.03-14.40.24:885][819]LogSavePackage: Moving '../../../../../../Users/Alba Samaranch/Documents/GitHub/The-Doors/TheDoors/Saved/FirstLevel_BuiltData09DC507547988C4BAD73CCAEBDD95FAE.tmp' to '../../../../../../Users/Alba Samaranch/Documents/GitHub/The-Doors/TheDoors/Content/FirstLevel_BuiltData.uasset'
+[2020.02.03-14.40.24:912][819]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.03-14.40.24:912][819]LogContentValidation: Display: Validating World /Game/FirstLevel.FirstLevel
+[2020.02.03-14.40.24:912][819]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstLevel_BuiltData.FirstLevel_BuiltData
