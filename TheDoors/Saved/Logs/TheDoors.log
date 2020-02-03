@@ -1214,3 +1214,38 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.03-19.09.49:623][426]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
 [2020.02.03-19.09.49:623][426]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
 [2020.02.03-19.09.49:752][426]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.02.03-19.10.32:045][551]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{38e7418d-430c-4b75-b028-033dd759d70a}.
+[2020.02.03-19.10.32:045][551]LogTemp: Resetting audio stream to device id 
+[2020.02.03-19.10.32:067][551]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.03-19.10.32:067][551]LogAudioMixer: Display: Name: Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.03-19.10.32:067][551]LogAudioMixer: Display: Is Default: Yes
+[2020.02.03-19.10.32:067][551]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.03-19.10.32:067][551]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.03-19.10.32:067][551]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.03-19.10.32:067][551]LogAudioMixer: Display: Channel Order:
+[2020.02.03-19.10.32:067][551]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.03-19.10.32:067][551]LogAudioMixer: Display: 1: FrontRight
+[2020.02.03-19.12.21:629][878]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{b7ff0674-8e02-40a7-bb07-ea62f9418d6d}.
+[2020.02.03-19.12.21:629][878]LogTemp: Resetting audio stream to device id 
+[2020.02.03-19.12.21:637][878]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.03-19.12.21:637][878]LogAudioMixer: Display: Name: Speakers (Cirrus Logic CS8409 (AB 57))
+[2020.02.03-19.12.21:637][878]LogAudioMixer: Display: Is Default: Yes
+[2020.02.03-19.12.21:637][878]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.03-19.12.21:637][878]LogAudioMixer: Display: Channel Count Used: 4
+[2020.02.03-19.12.21:637][878]LogAudioMixer: Display: Device Channel Count: 4
+[2020.02.03-19.12.21:637][878]LogAudioMixer: Display: Channel Order:
+[2020.02.03-19.12.21:637][878]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.03-19.12.21:637][878]LogAudioMixer: Display: 1: FrontRight
+[2020.02.03-19.12.21:637][878]LogAudioMixer: Display: 2: BackLeft
+[2020.02.03-19.12.21:637][878]LogAudioMixer: Display: 3: BackRight
+[2020.02.03-19.12.41:404][937]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{38e7418d-430c-4b75-b028-033dd759d70a}.
+[2020.02.03-19.12.41:404][937]LogTemp: Resetting audio stream to device id 
+[2020.02.03-19.12.41:423][937]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.03-19.12.41:423][937]LogAudioMixer: Display: Name: Headphones (Cirrus Logic CS8409 (AB 57))
+[2020.02.03-19.12.41:423][937]LogAudioMixer: Display: Is Default: Yes
+[2020.02.03-19.12.41:423][937]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.03-19.12.41:423][937]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.03-19.12.41:423][937]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.03-19.12.41:423][937]LogAudioMixer: Display: Channel Order:
+[2020.02.03-19.12.41:423][937]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.03-19.12.41:423][937]LogAudioMixer: Display: 1: FrontRight
